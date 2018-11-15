@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">计时器</string>
+    <string name="time_Minute">分</string>
+    <string name="time_second">秒</string>
+    <string name="timer_start">开始</string>
+    <string name="timer_stop">停止</string>
+    <string name="timer_clean">清除</string>
+    <string name="item_config_Save">保存设置</string>
+    <string name="item_config_Delete">删除条目</string>
+    <string name="item_config_noSound">无铃声</string>kais
+    <string name="item_config_AutoStart">自动开始</string>
+    <string name="item_config_comment_title">注解</string>
+    <string name="up_comment">长按打开设置</string>
+    <string name="select_sound_title">铃声</string>
+    <string name="config_sound_title">选择铃声</string>
+</resources>

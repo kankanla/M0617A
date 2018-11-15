@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="time_Minute">M</string>
+    <string name="time_second">S</string>
+    <string name="timer_start">Start</string>
+    <string name="timer_stop">Stop</string>
+    <string name="timer_clean">Clean</string>
+    <string name="item_config_Save">Save</string>
+    <string name="item_config_Delete">Delete</string>
+    <string name="item_config_noSound">noSound</string>
+    <string name="item_config_AutoStart">AutoStart</string>
+    <string name="item_config_comment_title">Comment</string>
+    <string name="up_comment">Long press here</string>
+    <string name="select_sound_title">Sound</string>
+    <string name="config_sound_title">sound</string>
+</resources>

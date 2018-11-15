@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">タイマー</string>
+    <string name="time_Minute">分</string>
+    <string name="time_second">秒</string>
+    <string name="timer_start">スタート</string>
+
+    <string name="timer_stop">ストップ</string>
+    <string name="timer_clean">クリア</string>
+    <string name="item_config_Save">設定を保存</string>
+    <string name="item_config_Delete">アイテム削除</string>
+    <string name="item_config_noSound">ノーサウンド</string>
+    <string name="item_config_AutoStart">自動タイマ開始</string>
+    <string name="item_config_comment_title">コメント</string>
+    <string name="up_comment">長押し設定開く</string>
+    <string name="select_sound_title">選択</string>
+    <string name="config_sound_title">サウンド</string>
+</resources>
